@@ -1,0 +1,46 @@
+ <section class="gallery py-5" id="portfolio">
+
+      <div class="container">
+        <div class="section-heading text-center">
+          <h1 class="heading-title">Latest work</h1>
+        </div>
+
+        <div class="row no-gutters">
+
+          <div class="lightbox-content col-12 col-sm-6 col-md-4">
+            <a href="https://laiba1khan.blogspot.com/2020/02/do-you-postpone-things-often-if-yes.html" >
+              <img src="images/card1.png" class="img-fluid" alt="img1" />
+            </a>
+          </div>
+
+          <div class="lightbox-content col-12 col-sm-6 col-md-4">
+            <a href="https://laiba1khan.blogspot.com/2020/02/all-you-need-is-upgraded-transformation.html" >
+              <img src="images/card2.png" class="img-fluid" alt="img2" />
+            </a>
+          </div>
+
+          <div class="lightbox-content col-12 col-md-4">
+            <a href="https://laiba1khan.blogspot.com/2020/01/" >
+              <img src="images/card3.png" class="img-fluid" alt="img3" />
+            </a>
+          </div>
+
+          <div class="lightbox-content col-12 col-sm-6 col-md-4">
+            <a href="https://laiba1khan.blogspot.com/2020/02/trust.html" >
+              <img src="images/card6.png" class="img-fluid" alt="img4" />
+            </a>
+          </div>
+
+          
+
+          <div class="lightbox-content col-12 col-sm-6 col-md-4">
+            <a href="https://laiba1khan.blogspot.com/2020/02/dont-follow-your-passion-follow-your.html?showComment=1581533099941#c1316781556461280904" >
+              <img src="images/card.jpg" class="img-fluid" alt="img6" />
+            </a>
+          </div>
+
+          
+
+        </div>
+      </div>
+    </section>
